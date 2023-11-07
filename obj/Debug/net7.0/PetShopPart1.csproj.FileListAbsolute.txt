@@ -1,0 +1,28 @@
+C:\Users\aaron\Desktop\C# Projects\PetShopPart1\bin\Debug\net7.0\PetShopPart1.exe
+C:\Users\aaron\Desktop\C# Projects\PetShopPart1\bin\Debug\net7.0\PetShopPart1.deps.json
+C:\Users\aaron\Desktop\C# Projects\PetShopPart1\bin\Debug\net7.0\PetShopPart1.runtimeconfig.json
+C:\Users\aaron\Desktop\C# Projects\PetShopPart1\bin\Debug\net7.0\PetShopPart1.dll
+C:\Users\aaron\Desktop\C# Projects\PetShopPart1\bin\Debug\net7.0\PetShopPart1.pdb
+C:\Users\aaron\Desktop\C# Projects\PetShopPart1\obj\Debug\net7.0\PetShopPart1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\Desktop\C# Projects\PetShopPart1\obj\Debug\net7.0\PetShopPart1.AssemblyInfoInputs.cache
+C:\Users\aaron\Desktop\C# Projects\PetShopPart1\obj\Debug\net7.0\PetShopPart1.AssemblyInfo.cs
+C:\Users\aaron\Desktop\C# Projects\PetShopPart1\obj\Debug\net7.0\PetShopPart1.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Desktop\C# Projects\PetShopPart1\obj\Debug\net7.0\PetShopPart1.dll
+C:\Users\aaron\Desktop\C# Projects\PetShopPart1\obj\Debug\net7.0\refint\PetShopPart1.dll
+C:\Users\aaron\Desktop\C# Projects\PetShopPart1\obj\Debug\net7.0\PetShopPart1.pdb
+C:\Users\aaron\Desktop\C# Projects\PetShopPart1\obj\Debug\net7.0\PetShopPart1.genruntimeconfig.cache
+C:\Users\aaron\Desktop\C# Projects\PetShopPart1\obj\Debug\net7.0\ref\PetShopPart1.dll
+C:\Users\aaron\Desktop\Csharp_Projects\PetShopPart1\bin\Debug\net7.0\PetShopPart1.exe
+C:\Users\aaron\Desktop\Csharp_Projects\PetShopPart1\bin\Debug\net7.0\PetShopPart1.deps.json
+C:\Users\aaron\Desktop\Csharp_Projects\PetShopPart1\bin\Debug\net7.0\PetShopPart1.runtimeconfig.json
+C:\Users\aaron\Desktop\Csharp_Projects\PetShopPart1\bin\Debug\net7.0\PetShopPart1.dll
+C:\Users\aaron\Desktop\Csharp_Projects\PetShopPart1\bin\Debug\net7.0\PetShopPart1.pdb
+C:\Users\aaron\Desktop\Csharp_Projects\PetShopPart1\obj\Debug\net7.0\PetShopPart1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\Desktop\Csharp_Projects\PetShopPart1\obj\Debug\net7.0\PetShopPart1.AssemblyInfoInputs.cache
+C:\Users\aaron\Desktop\Csharp_Projects\PetShopPart1\obj\Debug\net7.0\PetShopPart1.AssemblyInfo.cs
+C:\Users\aaron\Desktop\Csharp_Projects\PetShopPart1\obj\Debug\net7.0\PetShopPart1.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Desktop\Csharp_Projects\PetShopPart1\obj\Debug\net7.0\PetShopPart1.dll
+C:\Users\aaron\Desktop\Csharp_Projects\PetShopPart1\obj\Debug\net7.0\refint\PetShopPart1.dll
+C:\Users\aaron\Desktop\Csharp_Projects\PetShopPart1\obj\Debug\net7.0\PetShopPart1.pdb
+C:\Users\aaron\Desktop\Csharp_Projects\PetShopPart1\obj\Debug\net7.0\PetShopPart1.genruntimeconfig.cache
+C:\Users\aaron\Desktop\Csharp_Projects\PetShopPart1\obj\Debug\net7.0\ref\PetShopPart1.dll
